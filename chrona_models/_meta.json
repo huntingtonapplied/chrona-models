@@ -1,0 +1,7 @@
+{
+  "project": "chrona",
+  "crafts": [
+    "chrona_ew_signal_classifier_v1"
+  ],
+  "version": "0.2.0"
+}
